@@ -249,13 +249,13 @@ h2 {
 
 /* Установка фоновых изображений */
 .choise-math{
-    background: linear-gradient(90deg, #000000df, #00000000), url(/images/pictures/choise-math.jpg) no-repeat center / cover;
+    background: linear-gradient(90deg, #000000df, #00000000), url(../images/pictures/choise-math.jpg) no-repeat center / cover;
 }
 .choise-physics{
-    background: linear-gradient(90deg, #000000df, #00000000), url(/images/pictures/choise-physics.jpg) no-repeat center / cover;
+    background: linear-gradient(90deg, #000000df, #00000000), url(../images/pictures/choise-physics.jpg) no-repeat center / cover;
 }
 .choise-mechanics{
-    background: linear-gradient(90deg, #000000df, #00000000), url(/images/pictures/choise-mechanics.jpg) no-repeat center / cover;
+    background: linear-gradient(90deg, #000000df, #00000000), url(../images/pictures/choise-mechanics.jpg) no-repeat center / cover;
 }
 
 /* Стилизация карточек предметов */
@@ -365,12 +365,12 @@ h2 {
 .semester-button-prev{
     left: 20px;
     top: 50%;
-    background: url(/images/icons/line-arrow-l.svg) no-repeat 100% / 100%;
+    background: url(../images/icons/line-arrow-l.svg) no-repeat 100% / 100%;
 }
 .semester-button-next{
     right: 20px;
     top: 50%;
-    background: url(/images/icons/line-arrow-r.svg) no-repeat 100% / 100%;
+    background: url(../images/icons/line-arrow-r.svg) no-repeat 100% / 100%;
 }
 /* Настройка слайдера тем */
 .theme-swiper{
@@ -594,7 +594,7 @@ h2 {
     .logo__link{
         position: relative;
         z-index: 10;
-        background: url(/images/icons/logo-mini.svg) no-repeat;
+        background: url(../images/icons/logo-mini.svg) no-repeat;
         width: 64px;
         height: 47px;
     }
