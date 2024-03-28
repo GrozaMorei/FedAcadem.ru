@@ -469,7 +469,7 @@ hr {
     .logo__link {
         position: relative;
         z-index: 10;
-        background: url(/images/icons/logo-mini.svg) no-repeat;
+        background: url(../images/icons/logo-mini.svg) no-repeat;
         width: 64px;
         height: 47px;
     }
