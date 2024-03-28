@@ -1017,6 +1017,9 @@ body{
     }
 
     /* Шестая секция */
+    .FAQ{
+        margin-bottom: 0;
+    }
     .block-2{
         padding: 10px;
     }
